@@ -3,7 +3,7 @@
 Clonar el repositorio:
 
 ``
-git clone https://github.com/AlanSealtiel/LaravelUsuarios.git
+git clone https://github.com/Esteban6097/PruebaValleGroup.git
 ``
 
 Abrir la carpeta del proyecto e instalar las dependencias de Laraverl con Composer
